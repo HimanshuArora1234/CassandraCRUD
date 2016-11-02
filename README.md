@@ -7,7 +7,7 @@ For installation of cassandra server: http://www.datastax.com/2012/01/getting-st
 
 ## Run
 
-First clone this app and start your cassandra server. Then run:
+First clone this app and start your cassandra server. Then run the following command on the root folder of your cloned cassandra app:
 
  `mvn exec:java`
  
